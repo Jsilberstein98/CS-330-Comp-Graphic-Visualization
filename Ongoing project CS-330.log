@@ -1,0 +1,15 @@
+﻿  MainApp.cpp
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(16,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(159,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(233,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(579,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(619,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(734,18): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(749,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(750,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(755,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(756,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(758,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\JakeS\source\repos\Ongoing project CS-330\Ongoing project CS-330\MainApp.cpp(759,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Ongoing project CS-330.vcxproj -> C:\Users\JakeS\source\repos\Ongoing project CS-330\Debug\Ongoing project CS-330.exe
